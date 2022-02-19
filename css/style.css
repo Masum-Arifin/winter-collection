@@ -37,7 +37,9 @@ body {
 }
 
 @keyframes move {
-  
+    from {
+        color: var(--font);
+    }
 
     to {
         color: #991b49;
