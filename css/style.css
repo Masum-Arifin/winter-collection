@@ -30,11 +30,7 @@ font-family: 'Poppins',sans-serif;
     padding: 8em 0;
 }
 
-body {
-    color: var(--font);
-    font-family: 'Lato',
-        sans-serif;
-}
+
 
 @keyframes move {
     from {
