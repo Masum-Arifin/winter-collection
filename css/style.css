@@ -36,7 +36,13 @@ body {
         sans-serif;
 }
 
+@keyframes move {
+  
 
+    to {
+        color: #991b49;
+    }
+}
 
 
 /* ------------------------HEADER PART---------------------------- */
