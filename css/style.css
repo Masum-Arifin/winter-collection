@@ -14,10 +14,7 @@ font-family: 'Poppins',sans-serif;
     --font: #3A3A3A;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-}
+
 
 .container {
     width: 1300px;
