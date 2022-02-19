@@ -19,12 +19,7 @@ font-family: 'Poppins',sans-serif;
     padding: 0;
 }
 
-.container {
-    width: 1300px;
-    margin: 0 auto;
-    padding: 0 15px;
-    position: relative;
-}
+
 
 .section-size {
     padding: 8em 0;
